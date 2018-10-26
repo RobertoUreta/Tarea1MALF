@@ -1,19 +1,19 @@
-## Tarea 1 MALF
+# Tarea 1 MALF
 
-# 1. Instrucciones de compilación y ejecución.
+## 1. Instrucciones de compilaciÃ³n y ejecuciÃ³n.
 
-En la carpeta src se encuentra el archivo T1.java el cual para compilar desde la línea de comando
-se utiliza la instrucción:
+En la carpeta src se encuentra el archivo T1.java el cual para compilar desde la lÃ­nea de comando
+se utiliza la instrucciÃ³n:
 ```
 javac T1.java
 ```
-Para ejecutar desde la línea de comando y direccionar el archivo a probar:
+Para ejecutar desde la lÃ­nea de comando y direccionar el archivo a probar:
 ```
 java T1 < test.in
 ```
 
 
-# 2. Ejemplos de uso sin direccionar archivo.
+### 2. Ejemplos de uso sin direccionar archivo.
 
 
 ```
