@@ -13,7 +13,7 @@ java T1 < test.in
 ```
 
 
-### 2. Ejemplos de uso sin direccionar archivo.
+## 2. Ejemplos de uso sin direccionar archivo.
 
 
 ```
