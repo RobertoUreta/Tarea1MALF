@@ -28,3 +28,8 @@ java T1
 (a.b)|c
 abbacbabaabba
 ```
+
+## 3. Autores
+
+- Fernanda Lopez
+- Roberto Ureta
